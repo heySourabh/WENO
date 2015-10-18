@@ -1,5 +1,5 @@
 # Weighetd Essentially Non-Oscillatory (WENO)
-This is a Java library for one dimensional Weighted Essentially Non Oscillatory (WENO) reconstruction of arbitrary order.
+This is a Java library for one dimensional Weighted Essentially Non Oscillatory (WENO) reconstruction of an arbitrary order of accuracy. [Download Library](https://github.com/heySourabh/WENO/releases/download/1.0/WENO.jar)
 
 You can use the library by passing the average-values and order-of-ENO-stencils as arguments.
 
